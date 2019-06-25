@@ -1,0 +1,11 @@
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/RobotPuzzle.deps.json
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/RobotPuzzle.runtimeconfig.json
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/RobotPuzzle.runtimeconfig.dev.json
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/RobotPuzzle.dll
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/RobotPuzzle.pdb
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.csprojAssemblyReference.cache
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.csproj.CoreCompileInputs.cache
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.AssemblyInfoInputs.cache
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.AssemblyInfo.cs
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.dll
+/Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.pdb

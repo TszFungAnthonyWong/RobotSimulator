@@ -1,0 +1,1 @@
+To Launch the Project, simply type "dotnet run" in the console.
