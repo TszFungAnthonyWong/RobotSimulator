@@ -2,9 +2,21 @@ using System;
 
 public class Robot : IRobot
 {
-    static int positionX;
-    static int positionY;
-    static int dirIndex;
+    int positionX;
+    int positionY;
+    int dirIndex;
+
+    public int getPX(){
+        return this.positionX;
+    }
+
+    public int getPY(){
+        return this.positionY;
+    }
+
+    public int getDI(){
+        return this.dirIndex;
+    }
 
     public bool canMove(int[,] board)
     {

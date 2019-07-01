@@ -9,3 +9,6 @@
 /Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.AssemblyInfo.cs
 /Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.dll
 /Users/Anthony/Documents/RobotPuzzle/obj/Debug/netcoreapp2.2/RobotPuzzle.pdb
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/Anthony/Documents/RobotPuzzle/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
